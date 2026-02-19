@@ -2,9 +2,9 @@
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
-**NAME**: KHIROD KHAGESHWAR BEHERA
+**NAME**: Sanmesh Nitin Bhalerao 
 
-**INTERN ID**: CTIS4005
+**INTERN ID**: CTIS3947
 
 **DOMAIN**: FULL STACK WEB DEVELOPMENT
 
@@ -36,7 +36,7 @@ This task significantly reinforced my understanding of **RESTful API integration
 
 ## OUTPUTS
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/995e2dfd-8ef9-45cf-b0db-43f96462f2b0" />
+![Image](https://github.com/user-attachments/assets/83801513-64ae-4857-a2a6-5762f61841a0)
 ---
 
 ## HOW TO RUN
